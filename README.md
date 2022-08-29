@@ -1,13 +1,6 @@
-# Unsplash Clone One
 
-A fully responsive frontend [Unsplash](twitter-clone-one.ntabucejo.vercel.app/) clone.
 
-## Strategies 
 
-* CSS Flexbox
-* CSS Grid
-* CSS (Fixed / Sticky / Absolute) Positions
-* Mobile First Approach
 
 ## Techonologies
 
