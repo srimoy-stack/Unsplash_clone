@@ -68,14 +68,4 @@ A fully responsive frontend [Unsplash](twitter-clone-one.ntabucejo.vercel.app/) 
 ![Desktop screenshot](https://github.com/ntabucejo/unsplash-clone-one/blob/main/src/assets/screenshots/desktop-1.png?raw=true)
 ![Desktop screenshot](https://github.com/ntabucejo/unsplash-clone-one/blob/main/src/assets/screenshots/desktop-2.png?raw=true)
 
-## Demo
 
-Install all the project dependencies.
-```bash
-  npm install
-```
-
-Run the development server.
-```bash
-  npm run dev
-```
