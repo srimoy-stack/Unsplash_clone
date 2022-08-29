@@ -58,7 +58,7 @@
 
 ## Screenshots
 
-![Desktop screenshot](https://github.com/ntabucejo/unsplash-clone-one/blob/main/src/assets/screenshots/desktop-1.png?raw=true)
+![Desktop screenshot](https://github.com/ntabucejo/unsplash-clone-one/blob/main/src/assets/screenshots/![image](https://user-images.githubusercontent.com/76528371/187129339-32347d62-5716-47a1-8466-cb1d798efe57.png)?raw=true)
 ![Desktop screenshot](https://github.com/ntabucejo/unsplash-clone-one/blob/main/src/assets/screenshots/desktop-2.png?raw=true)
 
 
